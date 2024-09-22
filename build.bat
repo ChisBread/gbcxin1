@@ -1,0 +1,1 @@
+pyinstaller  --add-data ".\img\icon-cheese-32.ico:.\img\" --onefile --windowed --icon .\img\icon-cheese-32.ico .\gbcxin1.py
